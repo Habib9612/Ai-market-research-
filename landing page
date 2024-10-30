@@ -1,0 +1,2 @@
+unzip ai-market-research.zip
+mv ai-market-research/* .
